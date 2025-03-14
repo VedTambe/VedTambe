@@ -1,23 +1,35 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/thumbs/120/microsoft/106/waving-hand-sign_1f44b.png" width="40px">
-  Hello, I'm <strong>Vedant Tambe</strong>
-</h1>
+  <span style="font-size: 40px; color: #39FF14;">👋 Hello, I'm <span style="color: #00ff00;">Vedant Tambe</span> 🚀</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/yourinstagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrNpLUIE/giphy.gif" width="50px">
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/34vkq2F45p8AAAAd/rgb-lights.gif" width="600px">
+  🚀 Passionate Developer | 💻 Tech Enthusiast | 📊 Data Analyst
 </p>
+
+---
+
+### 🌎 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/your-username" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img width="50%" s
+
 
 
 
