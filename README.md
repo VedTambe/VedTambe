@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate Developer | 💻 Tech Enthusiast | 📊 Data Analyst
+ 💻 DevOps Enginner 
 </p>
 
 ---
